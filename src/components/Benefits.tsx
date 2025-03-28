@@ -55,17 +55,17 @@ const Benefits = () => {
   const testimonials = [
     {
       quote: "FairFundz changed my life. I now receive my full salary without any mysterious deductions.",
-      author: "Samantha R.",
+      author: "Varshal H.",
       role: "Construction Worker"
     },
     {
       quote: "As a business owner, I can ensure my workers get paid fairly and transparently. It's improved morale significantly.",
-      author: "Michael T.",
+      author: "Ankit S.",
       role: "Security Agency Owner"
     },
     {
       quote: "The transparency and reliability of FairFundz has eliminated payment disputes and improved trust.",
-      author: "David L.",
+      author: "Dhruv T.",
       role: "Hospitality Manager"
     }
   ];

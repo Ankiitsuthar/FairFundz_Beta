@@ -60,11 +60,11 @@ const Footer = () => {
               </li>
               <li className="flex items-start">
                 <span className="text-blue-200 mr-2">📱</span>
-                <a href="tel:+1234567890" className="text-blue-200 hover:text-white transition-colors">+1 (234) 567-890</a>
+                <a href="tel:+1234567890" className="text-blue-200 hover:text-white transition-colors">+91 1234567890</a>
               </li>
               <li className="flex items-start">
                 <span className="text-blue-200 mr-2">📍</span>
-                <span className="text-blue-200">123 Financial District, Suite 100, New York, NY 10001</span>
+                <span className="text-blue-200">Bhagat Singh , Parul University</span>
               </li>
             </ul>
           </div>
